@@ -1,0 +1,11 @@
+bin = [
+ { name = "knapsack_brute_force", path = "src/knapsack_brute_force.rs" },
+]
+
+[package]
+name = "knapsack"
+version = "0.1.0"
+edition = "2021"
+
+
+[dependencies]

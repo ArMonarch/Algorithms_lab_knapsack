@@ -1,0 +1,14 @@
+/target
+
+# ignore pycache directory
+__pycache__/
+
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
